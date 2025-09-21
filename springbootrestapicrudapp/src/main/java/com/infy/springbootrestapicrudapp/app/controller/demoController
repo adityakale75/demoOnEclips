@@ -1,0 +1,5 @@
+public class demoController{
+  publis String demo(){
+    return "this is demo";
+  }
+}
